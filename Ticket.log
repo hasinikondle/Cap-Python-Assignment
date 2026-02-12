@@ -1,0 +1,6 @@
+2026-02-12 21:37:29,099 - INFO - Ticket created for Hasini
+2026-02-12 21:37:29,100 - INFO - Ticket booked for Hasini
+2026-02-12 21:37:29,100 - INFO - Fare calculated for Hasini: 1000
+2026-02-12 21:37:29,100 - INFO - Base fare updated to 150
+2026-02-12 21:37:29,100 - INFO - Fare calculated for Hasini: 1500
+2026-02-12 21:37:29,100 - WARNING - Ticket cancelled for Hasini
