@@ -1,0 +1,16 @@
+2026-02-12 21:03:11,824 - INFO - Employee created: Hasini
+2026-02-12 21:03:11,825 - INFO - Payslip generated for Hasini | Net: 35000.0
+2026-02-12 21:03:11,825 - INFO - HRA updated to 30%
+2026-02-12 21:03:11,826 - INFO - Payslip generated for Hasini | Net: 38000.0
+2026-02-12 21:09:39,362 - INFO - Employee created: Hasini
+2026-02-12 21:09:39,364 - INFO - Payslip generated for Hasini | Net: 35000.0
+2026-02-12 21:09:39,364 - INFO - HRA updated to 30%
+2026-02-12 21:09:39,365 - INFO - Payslip generated for Hasini | Net: 38000.0
+2026-02-12 21:11:05,629 - WARNING - High number of leaves for Hasini
+2026-02-12 21:11:05,630 - INFO - Employee created: Hasini
+2026-02-12 21:11:05,630 - WARNING - High deduction for Hasini
+2026-02-12 21:11:05,630 - INFO - Payslip generated for Hasini | Net: 30000.0
+2026-02-12 21:11:05,630 - WARNING - Unusually high HRA set: 60%
+2026-02-12 21:11:05,630 - INFO - HRA updated to 60%
+2026-02-12 21:11:05,630 - INFO - Employee created: Ravi
+2026-02-12 21:11:05,630 - INFO - Payslip generated for Ravi | Net: 63500.0
