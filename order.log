@@ -1,0 +1,20 @@
+2026-02-12 20:11:17,430 - INFO - Order created for Laptop
+2026-02-12 20:11:17,435 - INFO - Order placed for Laptop
+2026-02-12 20:11:17,436 - INFO - Total calculated for Laptop: 52500.0
+2026-02-12 20:11:17,436 - INFO - Tax updated to 12%
+2026-02-12 20:11:17,436 - INFO - Total calculated for Laptop: 56000.0
+2026-02-12 20:11:17,436 - WARNING - Order cancelled for Laptop
+2026-02-12 20:51:38,663 - INFO - Order placed for Laptop
+2026-02-12 20:51:38,665 - INFO - Total calculated for Laptop: 52500.0
+2026-02-12 20:51:38,666 - INFO - Tax updated to 12
+2026-02-12 20:51:38,667 - INFO - Total calculated for Laptop: 56000.0
+2026-02-12 20:51:38,667 - WARNING - Order cancelled for Laptop
+2026-02-12 20:52:20,290 - INFO - Order placed for Laptop
+2026-02-12 20:52:20,291 - INFO - Total calculated for Laptop: 52500.0
+2026-02-12 20:52:20,313 - INFO - Total calculated for Laptop: 56000.0
+2026-02-12 20:52:20,313 - WARNING - Order cancelled for Laptop
+2026-02-12 20:52:52,882 - INFO - Order placed for Laptop
+2026-02-12 20:52:52,883 - INFO - Total calculated for Laptop: 52500.0
+2026-02-12 20:52:52,883 - INFO - Tax updated to 12%
+2026-02-12 20:52:52,883 - INFO - Total calculated for Laptop: 56000.0
+2026-02-12 20:52:52,883 - WARNING - Order cancelled for Laptop
