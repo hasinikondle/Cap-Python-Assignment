@@ -1,0 +1,27 @@
+2026-02-12 22:22:43,741 - INFO - Movie ticket created for Pushpa 2
+2026-02-12 22:22:43,741 - INFO - Seats booked for Pushpa 2 | Seats: 3
+2026-02-12 22:22:43,742 - INFO - Total ticket price for Pushpa 2: 600
+2026-02-12 22:22:43,742 - INFO - Ticket price updated to 300
+2026-02-12 22:22:43,742 - INFO - Total ticket price for Pushpa 2: 900
+2026-02-12 22:22:43,742 - WARNING - Booking cancelled for Pushpa 2
+2026-02-12 22:24:20,237 - INFO - Movie ticket created for Pushpa 2
+2026-02-12 22:24:20,238 - INFO - Seats booked for Pushpa 2 | Seats: 3
+2026-02-12 22:24:20,238 - INFO - Total ticket price for Pushpa 2: 600
+2026-02-12 22:24:20,238 - INFO - Ticket price updated to 300
+2026-02-12 22:24:20,238 - INFO - Total ticket price for Pushpa 2: 900
+2026-02-12 22:24:20,238 - WARNING - Booking cancelled for Pushpa 2
+2026-02-12 22:24:20,238 - WARNING - No booking exists to cancel for Pushpa 2
+2026-02-12 22:24:20,238 - INFO - Movie ticket created for Salaar 2
+2026-02-12 22:24:20,238 - ERROR - Not enough seats available for Salaar 2
+2026-02-12 22:24:20,238 - ERROR - Invalid seats for movie Animal 2
+2026-02-12 22:25:17,473 - INFO - Movie ticket created for Pushpa 2
+2026-02-12 22:25:17,474 - INFO - Seats booked for Pushpa 2 | Seats: 3
+2026-02-12 22:25:17,474 - INFO - Total ticket price for Pushpa 2: 600
+2026-02-12 22:25:17,474 - INFO - Ticket price updated to 300
+2026-02-12 22:25:17,474 - INFO - Total ticket price for Pushpa 2: 900
+2026-02-12 22:25:17,474 - WARNING - Booking cancelled for Pushpa 2
+2026-02-12 22:25:17,474 - WARNING - No booking exists to cancel for Pushpa 2
+2026-02-12 22:25:17,474 - INFO - Movie ticket created for Salaar 2
+2026-02-12 22:25:17,474 - ERROR - Not enough seats available for Salaar 2
+2026-02-12 22:25:17,475 - ERROR - Invalid seats for movie Animal 2
+2026-02-12 22:25:17,475 - INFO - Movie ticket created for Animal 2
