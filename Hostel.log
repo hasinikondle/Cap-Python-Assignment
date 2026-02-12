@@ -1,0 +1,12 @@
+2026-02-12 21:44:58,876 - INFO - Room request created for Hasini
+2026-02-12 21:44:58,876 - INFO - Room allocated to Hasini
+2026-02-12 21:46:29,551 - INFO - Room request created for Hasini
+2026-02-12 21:46:29,551 - INFO - Room allocated to Hasini
+2026-02-12 21:46:29,551 - INFO - Fee calculated for Hasini: 30000
+2026-02-12 21:46:29,552 - INFO - Room rent updated to 6000
+2026-02-12 21:46:48,361 - INFO - Room request created for Hasini
+2026-02-12 21:46:48,361 - INFO - Room allocated to Hasini
+2026-02-12 21:46:48,361 - INFO - Fee calculated for Hasini: 30000
+2026-02-12 21:46:48,361 - INFO - Room rent updated to 6000
+2026-02-12 21:46:48,361 - INFO - Fee calculated for Hasini: 36000
+2026-02-12 21:46:48,361 - WARNING - Room vacated by Hasini
